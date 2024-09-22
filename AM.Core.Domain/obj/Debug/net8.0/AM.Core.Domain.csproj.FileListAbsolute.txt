@@ -1,0 +1,22 @@
+C:\Users\star store\source\repos\AirportManagement\AM.Core.Domain\bin\Debug\net8.0\AM.Core.Domain.deps.json
+C:\Users\star store\source\repos\AirportManagement\AM.Core.Domain\bin\Debug\net8.0\AM.Core.Domain.dll
+C:\Users\star store\source\repos\AirportManagement\AM.Core.Domain\bin\Debug\net8.0\AM.Core.Domain.pdb
+C:\Users\star store\source\repos\AirportManagement\AM.Core.Domain\obj\Debug\net8.0\AM.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\star store\source\repos\AirportManagement\AM.Core.Domain\obj\Debug\net8.0\AM.Core.Domain.AssemblyInfoInputs.cache
+C:\Users\star store\source\repos\AirportManagement\AM.Core.Domain\obj\Debug\net8.0\AM.Core.Domain.AssemblyInfo.cs
+C:\Users\star store\source\repos\AirportManagement\AM.Core.Domain\obj\Debug\net8.0\AM.Core.Domain.csproj.CoreCompileInputs.cache
+C:\Users\star store\source\repos\AirportManagement\AM.Core.Domain\obj\Debug\net8.0\AM.Core.Domain.dll
+C:\Users\star store\source\repos\AirportManagement\AM.Core.Domain\obj\Debug\net8.0\refint\AM.Core.Domain.dll
+C:\Users\star store\source\repos\AirportManagement\AM.Core.Domain\obj\Debug\net8.0\AM.Core.Domain.pdb
+C:\Users\star store\source\repos\AirportManagement\AM.Core.Domain\obj\Debug\net8.0\ref\AM.Core.Domain.dll
+C:\Users\njoub\Desktop\4ds\.net\AirportManagement\AM.Core.Domain\bin\Debug\net8.0\AM.Core.Domain.deps.json
+C:\Users\njoub\Desktop\4ds\.net\AirportManagement\AM.Core.Domain\bin\Debug\net8.0\AM.Core.Domain.dll
+C:\Users\njoub\Desktop\4ds\.net\AirportManagement\AM.Core.Domain\bin\Debug\net8.0\AM.Core.Domain.pdb
+C:\Users\njoub\Desktop\4ds\.net\AirportManagement\AM.Core.Domain\obj\Debug\net8.0\AM.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\njoub\Desktop\4ds\.net\AirportManagement\AM.Core.Domain\obj\Debug\net8.0\AM.Core.Domain.AssemblyInfoInputs.cache
+C:\Users\njoub\Desktop\4ds\.net\AirportManagement\AM.Core.Domain\obj\Debug\net8.0\AM.Core.Domain.AssemblyInfo.cs
+C:\Users\njoub\Desktop\4ds\.net\AirportManagement\AM.Core.Domain\obj\Debug\net8.0\AM.Core.Domain.csproj.CoreCompileInputs.cache
+C:\Users\njoub\Desktop\4ds\.net\AirportManagement\AM.Core.Domain\obj\Debug\net8.0\AM.Core.Domain.dll
+C:\Users\njoub\Desktop\4ds\.net\AirportManagement\AM.Core.Domain\obj\Debug\net8.0\refint\AM.Core.Domain.dll
+C:\Users\njoub\Desktop\4ds\.net\AirportManagement\AM.Core.Domain\obj\Debug\net8.0\AM.Core.Domain.pdb
+C:\Users\njoub\Desktop\4ds\.net\AirportManagement\AM.Core.Domain\obj\Debug\net8.0\ref\AM.Core.Domain.dll
